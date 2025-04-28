@@ -196,3 +196,13 @@ smart-hotel-booking-system/
 │
 ├── README.md                            → Project overview, setup instructions
 └── .gitignore                           → Files/folders to ignore in Git
+
+
+### Model Selection
+1-User & Role management Module-Raja
+2-Hotel & Room management Module-Shubham
+3-Booking & Payment Processing Module-Rohan
+4-Reviews & Rating Module-Samiksha
+5-Loyalty & Rewards Program Module-Yash
+
+
