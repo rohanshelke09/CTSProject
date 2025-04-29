@@ -1,0 +1,2439 @@
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="apilog" tag="apilog" timestamp="06-04-2025 21:52:54">
+	<statusnotification status="6" compliant="3" remStatus="48" phase="0" step="-1" progress="-1" attention="0" cancelable="0" restartable="0" description1="System scan not required on current Wi-Fi." description2=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="popup">
+	<popup timestamp="06-04-2025 21:52:54" id="nac_remediaton_popup" type="remediation" show="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 21:52:54">
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_compliance_info">
+			<listrowcolumn label="Compliance Information"/>
+			<listrow id="stat_id_current_status">
+				<listrowcolumn label="Current Status:"/>
+				<listrowcolumn label="Compliance Unknown"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_req">
+				<listrowcolumn label="Missing Requirements:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_optionals">
+				<listrowcolumn label="Remaining Optional Updates:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 21:52:54">
+	<outlinelistbox id="overview_stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_nac">
+			<listrowcolumn label="ISE Posture (Compliance Unknown)"/>
+			<listrow id="stat_id_last_check">
+				<listrowcolumn label="Latest Scan Start Time:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 21:52:54" state="Neutral">
+	<traystate id="tray_state_string" value="Compliance Unknown"/>
+	<label id="simple_status" value="System scan not required on current Wi-Fi." tooltip="System scan not required on current Wi-Fi." color="black" hidden="false" disabled="false"/>
+	<log messagehistory="System scan not required on current Wi-Fi."/>
+	<label id="simple_second_status" value="" tooltip="" color="black" hidden="false" disabled="false"/>
+	<progressmeter id="simple_progress_meter" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="simple_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<button id="detail_tile_label" label="Details" tooltip="Details" hidden="true" disabled="true"/>
+	<progressmeter id="rem_progress_bar" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="rem_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<label id="rem_progress_label" value="System Scan Progress" color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning" value=" " color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning_img" value=" " color="black" hidden="true" disabled="false"/>
+	<button id="rem_cancel_btn" label="Cancel" tooltip="Cancel" hidden="false" disabled="true"/>
+	<button id="rem_skipall_btn" label="Skip All" tooltip="Skip All" hidden="true" disabled="false"/>
+	<button id="nac_try_again_btn" label="Scan Again" tooltip="Scan Again" hidden="true" disabled="false"/>
+	<button id="simple_action_btn" label="Cancel" tooltip="Cancel" hidden="true" disabled="false"/>
+	<button id="rem_done_btn" label="Close" tooltip="Close" hidden="true" disabled="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="apilog" tag="apilog" timestamp="06-04-2025 21:52:59">
+	<statusnotification status="6" compliant="3" remStatus="48" phase="0" step="-1" progress="-1" attention="0" cancelable="0" restartable="0" description1="System scan not required on current Wi-Fi." description2=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="popup">
+	<popup timestamp="06-04-2025 21:52:59" id="nac_remediaton_popup" type="remediation" show="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 21:52:59">
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_compliance_info">
+			<listrowcolumn label="Compliance Information"/>
+			<listrow id="stat_id_current_status">
+				<listrowcolumn label="Current Status:"/>
+				<listrowcolumn label="Compliance Unknown"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_req">
+				<listrowcolumn label="Missing Requirements:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_optionals">
+				<listrowcolumn label="Remaining Optional Updates:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 21:52:59">
+	<outlinelistbox id="overview_stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_nac">
+			<listrowcolumn label="ISE Posture (Compliance Unknown)"/>
+			<listrow id="stat_id_last_check">
+				<listrowcolumn label="Latest Scan Start Time:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 21:52:59" state="Neutral">
+	<traystate id="tray_state_string" value="Compliance Unknown"/>
+	<label id="simple_status" value="System scan not required on current Wi-Fi." tooltip="System scan not required on current Wi-Fi." color="black" hidden="false" disabled="false"/>
+	<log messagehistory="System scan not required on current Wi-Fi."/>
+	<label id="simple_second_status" value="" tooltip="" color="black" hidden="false" disabled="false"/>
+	<progressmeter id="simple_progress_meter" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="simple_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<button id="detail_tile_label" label="Details" tooltip="Details" hidden="true" disabled="true"/>
+	<progressmeter id="rem_progress_bar" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="rem_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<label id="rem_progress_label" value="System Scan Progress" color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning" value=" " color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning_img" value=" " color="black" hidden="true" disabled="false"/>
+	<button id="rem_cancel_btn" label="Cancel" tooltip="Cancel" hidden="false" disabled="true"/>
+	<button id="rem_skipall_btn" label="Skip All" tooltip="Skip All" hidden="true" disabled="false"/>
+	<button id="nac_try_again_btn" label="Scan Again" tooltip="Scan Again" hidden="true" disabled="false"/>
+	<button id="simple_action_btn" label="Cancel" tooltip="Cancel" hidden="true" disabled="false"/>
+	<button id="rem_done_btn" label="Close" tooltip="Close" hidden="true" disabled="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="apilog" tag="apilog" timestamp="06-04-2025 21:53:06">
+	<statusnotification status="6" compliant="3" remStatus="48" phase="0" step="-1" progress="-1" attention="0" cancelable="0" restartable="0" description1="System scan not required on current Wi-Fi." description2=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="popup">
+	<popup timestamp="06-04-2025 21:53:06" id="nac_remediaton_popup" type="remediation" show="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 21:53:06">
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_compliance_info">
+			<listrowcolumn label="Compliance Information"/>
+			<listrow id="stat_id_current_status">
+				<listrowcolumn label="Current Status:"/>
+				<listrowcolumn label="Compliance Unknown"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_req">
+				<listrowcolumn label="Missing Requirements:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_optionals">
+				<listrowcolumn label="Remaining Optional Updates:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 21:53:06">
+	<outlinelistbox id="overview_stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_nac">
+			<listrowcolumn label="ISE Posture (Compliance Unknown)"/>
+			<listrow id="stat_id_last_check">
+				<listrowcolumn label="Latest Scan Start Time:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 21:53:06" state="Neutral">
+	<traystate id="tray_state_string" value="Compliance Unknown"/>
+	<label id="simple_status" value="System scan not required on current Wi-Fi." tooltip="System scan not required on current Wi-Fi." color="black" hidden="false" disabled="false"/>
+	<log messagehistory="System scan not required on current Wi-Fi."/>
+	<label id="simple_second_status" value="" tooltip="" color="black" hidden="false" disabled="false"/>
+	<progressmeter id="simple_progress_meter" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="simple_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<button id="detail_tile_label" label="Details" tooltip="Details" hidden="true" disabled="true"/>
+	<progressmeter id="rem_progress_bar" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="rem_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<label id="rem_progress_label" value="System Scan Progress" color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning" value=" " color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning_img" value=" " color="black" hidden="true" disabled="false"/>
+	<button id="rem_cancel_btn" label="Cancel" tooltip="Cancel" hidden="false" disabled="true"/>
+	<button id="rem_skipall_btn" label="Skip All" tooltip="Skip All" hidden="true" disabled="false"/>
+	<button id="nac_try_again_btn" label="Scan Again" tooltip="Scan Again" hidden="true" disabled="false"/>
+	<button id="simple_action_btn" label="Cancel" tooltip="Cancel" hidden="true" disabled="false"/>
+	<button id="rem_done_btn" label="Close" tooltip="Close" hidden="true" disabled="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="apilog" tag="apilog" timestamp="06-04-2025 21:53:14">
+	<statusnotification status="6" compliant="3" remStatus="48" phase="0" step="-1" progress="-1" attention="0" cancelable="0" restartable="0" description1="System scan not required on current Wi-Fi." description2=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="popup">
+	<popup timestamp="06-04-2025 21:53:14" id="nac_remediaton_popup" type="remediation" show="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 21:53:14">
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_compliance_info">
+			<listrowcolumn label="Compliance Information"/>
+			<listrow id="stat_id_current_status">
+				<listrowcolumn label="Current Status:"/>
+				<listrowcolumn label="Compliance Unknown"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_req">
+				<listrowcolumn label="Missing Requirements:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_optionals">
+				<listrowcolumn label="Remaining Optional Updates:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 21:53:14">
+	<outlinelistbox id="overview_stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_nac">
+			<listrowcolumn label="ISE Posture (Compliance Unknown)"/>
+			<listrow id="stat_id_last_check">
+				<listrowcolumn label="Latest Scan Start Time:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 21:53:14" state="Neutral">
+	<traystate id="tray_state_string" value="Compliance Unknown"/>
+	<label id="simple_status" value="System scan not required on current Wi-Fi." tooltip="System scan not required on current Wi-Fi." color="black" hidden="false" disabled="false"/>
+	<log messagehistory="System scan not required on current Wi-Fi."/>
+	<label id="simple_second_status" value="" tooltip="" color="black" hidden="false" disabled="false"/>
+	<progressmeter id="simple_progress_meter" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="simple_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<button id="detail_tile_label" label="Details" tooltip="Details" hidden="true" disabled="true"/>
+	<progressmeter id="rem_progress_bar" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="rem_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<label id="rem_progress_label" value="System Scan Progress" color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning" value=" " color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning_img" value=" " color="black" hidden="true" disabled="false"/>
+	<button id="rem_cancel_btn" label="Cancel" tooltip="Cancel" hidden="false" disabled="true"/>
+	<button id="rem_skipall_btn" label="Skip All" tooltip="Skip All" hidden="true" disabled="false"/>
+	<button id="nac_try_again_btn" label="Scan Again" tooltip="Scan Again" hidden="true" disabled="false"/>
+	<button id="simple_action_btn" label="Cancel" tooltip="Cancel" hidden="true" disabled="false"/>
+	<button id="rem_done_btn" label="Close" tooltip="Close" hidden="true" disabled="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="apilog" tag="apilog" timestamp="06-04-2025 21:53:24">
+	<statusnotification status="6" compliant="3" remStatus="48" phase="0" step="-1" progress="-1" attention="0" cancelable="0" restartable="0" description1="System scan not required on current Wi-Fi." description2=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="popup">
+	<popup timestamp="06-04-2025 21:53:24" id="nac_remediaton_popup" type="remediation" show="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 21:53:24">
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_compliance_info">
+			<listrowcolumn label="Compliance Information"/>
+			<listrow id="stat_id_current_status">
+				<listrowcolumn label="Current Status:"/>
+				<listrowcolumn label="Compliance Unknown"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_req">
+				<listrowcolumn label="Missing Requirements:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_optionals">
+				<listrowcolumn label="Remaining Optional Updates:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 21:53:24">
+	<outlinelistbox id="overview_stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_nac">
+			<listrowcolumn label="ISE Posture (Compliance Unknown)"/>
+			<listrow id="stat_id_last_check">
+				<listrowcolumn label="Latest Scan Start Time:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 21:53:24" state="Neutral">
+	<traystate id="tray_state_string" value="Compliance Unknown"/>
+	<label id="simple_status" value="System scan not required on current Wi-Fi." tooltip="System scan not required on current Wi-Fi." color="black" hidden="false" disabled="false"/>
+	<log messagehistory="System scan not required on current Wi-Fi."/>
+	<label id="simple_second_status" value="" tooltip="" color="black" hidden="false" disabled="false"/>
+	<progressmeter id="simple_progress_meter" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="simple_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<button id="detail_tile_label" label="Details" tooltip="Details" hidden="true" disabled="true"/>
+	<progressmeter id="rem_progress_bar" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="rem_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<label id="rem_progress_label" value="System Scan Progress" color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning" value=" " color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning_img" value=" " color="black" hidden="true" disabled="false"/>
+	<button id="rem_cancel_btn" label="Cancel" tooltip="Cancel" hidden="false" disabled="true"/>
+	<button id="rem_skipall_btn" label="Skip All" tooltip="Skip All" hidden="true" disabled="false"/>
+	<button id="nac_try_again_btn" label="Scan Again" tooltip="Scan Again" hidden="true" disabled="false"/>
+	<button id="simple_action_btn" label="Cancel" tooltip="Cancel" hidden="true" disabled="false"/>
+	<button id="rem_done_btn" label="Close" tooltip="Close" hidden="true" disabled="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="apilog" tag="apilog" timestamp="06-04-2025 21:53:37">
+	<statusnotification status="6" compliant="3" remStatus="48" phase="0" step="-1" progress="-1" attention="0" cancelable="0" restartable="0" description1="System scan not required on current Wi-Fi." description2=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="popup">
+	<popup timestamp="06-04-2025 21:53:37" id="nac_remediaton_popup" type="remediation" show="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 21:53:37">
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_compliance_info">
+			<listrowcolumn label="Compliance Information"/>
+			<listrow id="stat_id_current_status">
+				<listrowcolumn label="Current Status:"/>
+				<listrowcolumn label="Compliance Unknown"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_req">
+				<listrowcolumn label="Missing Requirements:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_optionals">
+				<listrowcolumn label="Remaining Optional Updates:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 21:53:37">
+	<outlinelistbox id="overview_stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_nac">
+			<listrowcolumn label="ISE Posture (Compliance Unknown)"/>
+			<listrow id="stat_id_last_check">
+				<listrowcolumn label="Latest Scan Start Time:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 21:53:37" state="Neutral">
+	<traystate id="tray_state_string" value="Compliance Unknown"/>
+	<label id="simple_status" value="System scan not required on current Wi-Fi." tooltip="System scan not required on current Wi-Fi." color="black" hidden="false" disabled="false"/>
+	<log messagehistory="System scan not required on current Wi-Fi."/>
+	<label id="simple_second_status" value="" tooltip="" color="black" hidden="false" disabled="false"/>
+	<progressmeter id="simple_progress_meter" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="simple_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<button id="detail_tile_label" label="Details" tooltip="Details" hidden="true" disabled="true"/>
+	<progressmeter id="rem_progress_bar" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="rem_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<label id="rem_progress_label" value="System Scan Progress" color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning" value=" " color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning_img" value=" " color="black" hidden="true" disabled="false"/>
+	<button id="rem_cancel_btn" label="Cancel" tooltip="Cancel" hidden="false" disabled="true"/>
+	<button id="rem_skipall_btn" label="Skip All" tooltip="Skip All" hidden="true" disabled="false"/>
+	<button id="nac_try_again_btn" label="Scan Again" tooltip="Scan Again" hidden="true" disabled="false"/>
+	<button id="simple_action_btn" label="Cancel" tooltip="Cancel" hidden="true" disabled="false"/>
+	<button id="rem_done_btn" label="Close" tooltip="Close" hidden="true" disabled="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="apilog" tag="apilog" timestamp="06-04-2025 21:53:57">
+	<statusnotification status="6" compliant="3" remStatus="48" phase="0" step="-1" progress="-1" attention="0" cancelable="0" restartable="0" description1="System scan not required on current Wi-Fi." description2=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="popup">
+	<popup timestamp="06-04-2025 21:53:57" id="nac_remediaton_popup" type="remediation" show="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 21:53:57">
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_compliance_info">
+			<listrowcolumn label="Compliance Information"/>
+			<listrow id="stat_id_current_status">
+				<listrowcolumn label="Current Status:"/>
+				<listrowcolumn label="Compliance Unknown"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_req">
+				<listrowcolumn label="Missing Requirements:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_optionals">
+				<listrowcolumn label="Remaining Optional Updates:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 21:53:57">
+	<outlinelistbox id="overview_stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_nac">
+			<listrowcolumn label="ISE Posture (Compliance Unknown)"/>
+			<listrow id="stat_id_last_check">
+				<listrowcolumn label="Latest Scan Start Time:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 21:53:57" state="Neutral">
+	<traystate id="tray_state_string" value="Compliance Unknown"/>
+	<label id="simple_status" value="System scan not required on current Wi-Fi." tooltip="System scan not required on current Wi-Fi." color="black" hidden="false" disabled="false"/>
+	<log messagehistory="System scan not required on current Wi-Fi."/>
+	<label id="simple_second_status" value="" tooltip="" color="black" hidden="false" disabled="false"/>
+	<progressmeter id="simple_progress_meter" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="simple_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<button id="detail_tile_label" label="Details" tooltip="Details" hidden="true" disabled="true"/>
+	<progressmeter id="rem_progress_bar" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="rem_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<label id="rem_progress_label" value="System Scan Progress" color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning" value=" " color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning_img" value=" " color="black" hidden="true" disabled="false"/>
+	<button id="rem_cancel_btn" label="Cancel" tooltip="Cancel" hidden="false" disabled="true"/>
+	<button id="rem_skipall_btn" label="Skip All" tooltip="Skip All" hidden="true" disabled="false"/>
+	<button id="nac_try_again_btn" label="Scan Again" tooltip="Scan Again" hidden="true" disabled="false"/>
+	<button id="simple_action_btn" label="Cancel" tooltip="Cancel" hidden="true" disabled="false"/>
+	<button id="rem_done_btn" label="Close" tooltip="Close" hidden="true" disabled="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="apilog" tag="apilog" timestamp="06-04-2025 22:00:04">
+	<statusnotification status="12" compliant="0" remStatus="61929460" phase="0" step="0" progress="0" attention="0" cancelable="0" restartable="0" description1="" description2=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 22:00:04">
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_compliance_info">
+			<listrowcolumn label="Compliance Information"/>
+			<listrow id="stat_id_current_status">
+				<listrowcolumn label="Current Status:"/>
+				<listrowcolumn label="Compliance Unknown"/>
+			</listrow>
+			<listrow id="stat_id_acceptable_usage_policy">
+				<listrowcolumn label="Acceptable Use Policy:"/>
+				<listrowcolumn label="Unknown"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_connection_info">
+			<listrowcolumn label="Connection Information"/>
+			<listrow id="stat_id_policy_server">
+				<listrowcolumn label="Policy Server:"/>
+				<listrowcolumn label=" "/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="apilog" tag="apilog" timestamp="06-04-2025 22:00:04">
+	<reportnotification timelimit="0" nagoption="0" domaintag="" itemcount="0"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" tag="rem_update" timestamp="06-04-2025 22:00:04">
+	<outlinelistbox id="system_check_listbox" updaterows="false" num_columns="4">
+		<listhead>
+			<listheader label=""/>
+			<listheader label=""/>
+			<listheader label="Updates"/>
+			<listheader label="Status"/>
+		</listhead>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="apilog" tag="apilog" timestamp="06-04-2025 22:00:04">
+	<posturenotification timelimit="0" nagoption="0" domaintag="" itemcount="0"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" tag="rem_update" timestamp="06-04-2025 22:00:04">
+	<label id="rem_req_active_name" value=" " color="black" hidden="false" disabled="false"/>
+	<label id="rem_req_active_desc" value=" " color="black" hidden="false" disabled="false"/>
+	<label id="rem_grace_time_remaining_label" value="Time Remaining:" color="black" hidden="true" disabled="false"/>
+	<timer id="rem_grace_time_remaining" value="0" hidden="true" disabled="false"/>
+	<label id="rem_status_text" value="Required update(s) are complete." color="black" hidden="false" disabled="false"/>
+	<label id="rem_description" value="Updates are needed on your computer before you can join the network." color="black" hidden="true" disabled="false"/>
+	<outlinelistbox id="rem_req_list_items" updaterows="false" selected_row="-1" num_columns="4">
+		<listhead>
+			<listheader label=""/>
+			<listheader label=""/>
+			<listheader label="Updates"/>
+			<listheader label="Status"/>
+		</listhead>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="apilog" tag="apilog" timestamp="06-04-2025 22:00:04">
+	<statusnotification status="13" compliant="3" remStatus="44812104" phase="0" step="-1" progress="-1" attention="0" cancelable="0" restartable="0" description1="4.3.3893.8192" description2=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 22:00:04">
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_compliance_info">
+			<listrowcolumn label="Compliance Information"/>
+			<listrow id="stat_id_module_version">
+				<listrowcolumn label="Compliance Module Version:"/>
+				<listrowcolumn label="4.3.3893.8192"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="apilog" tag="apilog" timestamp="06-04-2025 22:00:04">
+	<statusnotification status="3" compliant="3" remStatus="2" phase="0" step="-1" progress="-1" attention="0" cancelable="0" restartable="0" description1="Searching for policy server." description2="This could take up to 30 seconds."/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="popup">
+	<popup timestamp="06-04-2025 22:00:04" id="nac_remediaton_popup" type="remediation" show="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 22:00:05">
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_compliance_info">
+			<listrowcolumn label="Compliance Information"/>
+			<listrow id="stat_id_current_status">
+				<listrowcolumn label="Current Status:"/>
+				<listrowcolumn label="Compliance Unknown"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_req">
+				<listrowcolumn label="Missing Requirements:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_optionals">
+				<listrowcolumn label="Remaining Optional Updates:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 22:00:05">
+	<outlinelistbox id="overview_stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_nac">
+			<listrowcolumn label="ISE Posture (Compliance Unknown)"/>
+			<listrow id="stat_id_last_check">
+				<listrowcolumn label="Latest Scan Start Time:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 22:00:04" state="Transition">
+	<traystate id="tray_state_string" value="In Progress"/>
+	<label id="simple_status" value="Searching for policy server." tooltip="Searching for policy server." color="black" hidden="false" disabled="false"/>
+	<log messagehistory="Searching for policy server."/>
+	<label id="simple_second_status" value="This could take up to 30 seconds." tooltip="This could take up to 30 seconds." color="black" hidden="false" disabled="false"/>
+	<progressmeter id="simple_progress_meter" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="simple_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<button id="detail_tile_label" label="Details" tooltip="Details" hidden="true" disabled="true"/>
+	<progressmeter id="rem_progress_bar" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="rem_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<label id="rem_progress_label" value="System Scan Progress" color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning" value=" " color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning_img" value=" " color="black" hidden="true" disabled="false"/>
+	<button id="rem_cancel_btn" label="Cancel" tooltip="Cancel" hidden="false" disabled="true"/>
+	<button id="rem_skipall_btn" label="Skip All" tooltip="Skip All" hidden="true" disabled="false"/>
+	<button id="nac_try_again_btn" label="Scan Again" tooltip="Scan Again" hidden="true" disabled="false"/>
+	<button id="simple_action_btn" label="Cancel" tooltip="Cancel" hidden="true" disabled="false"/>
+	<button id="rem_done_btn" label="Close" tooltip="Close" hidden="true" disabled="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="apilog" tag="apilog" timestamp="06-04-2025 22:00:05">
+	<statusnotification status="6" compliant="3" remStatus="48" phase="0" step="-1" progress="-1" attention="0" cancelable="0" restartable="0" description1="System scan not required on current Wi-Fi." description2=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="popup">
+	<popup timestamp="06-04-2025 22:00:05" id="nac_remediaton_popup" type="remediation" show="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 22:00:05">
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_compliance_info">
+			<listrowcolumn label="Compliance Information"/>
+			<listrow id="stat_id_current_status">
+				<listrowcolumn label="Current Status:"/>
+				<listrowcolumn label="Compliance Unknown"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_req">
+				<listrowcolumn label="Missing Requirements:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_optionals">
+				<listrowcolumn label="Remaining Optional Updates:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 22:00:05">
+	<outlinelistbox id="overview_stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_nac">
+			<listrowcolumn label="ISE Posture (Compliance Unknown)"/>
+			<listrow id="stat_id_last_check">
+				<listrowcolumn label="Latest Scan Start Time:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 22:00:05" state="Neutral">
+	<traystate id="tray_state_string" value="Compliance Unknown"/>
+	<label id="simple_status" value="System scan not required on current Wi-Fi." tooltip="System scan not required on current Wi-Fi." color="black" hidden="false" disabled="false"/>
+	<log messagehistory="System scan not required on current Wi-Fi."/>
+	<label id="simple_second_status" value="" tooltip="" color="black" hidden="false" disabled="false"/>
+	<progressmeter id="simple_progress_meter" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="simple_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<button id="detail_tile_label" label="Details" tooltip="Details" hidden="true" disabled="true"/>
+	<progressmeter id="rem_progress_bar" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="rem_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<label id="rem_progress_label" value="System Scan Progress" color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning" value=" " color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning_img" value=" " color="black" hidden="true" disabled="false"/>
+	<button id="rem_cancel_btn" label="Cancel" tooltip="Cancel" hidden="false" disabled="true"/>
+	<button id="rem_skipall_btn" label="Skip All" tooltip="Skip All" hidden="true" disabled="false"/>
+	<button id="nac_try_again_btn" label="Scan Again" tooltip="Scan Again" hidden="true" disabled="false"/>
+	<button id="simple_action_btn" label="Cancel" tooltip="Cancel" hidden="true" disabled="false"/>
+	<button id="rem_done_btn" label="Close" tooltip="Close" hidden="true" disabled="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="apilog" tag="apilog" timestamp="06-04-2025 22:00:10">
+	<statusnotification status="6" compliant="3" remStatus="48" phase="0" step="-1" progress="-1" attention="0" cancelable="0" restartable="0" description1="System scan not required on current Wi-Fi." description2=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="popup">
+	<popup timestamp="06-04-2025 22:00:10" id="nac_remediaton_popup" type="remediation" show="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 22:00:10">
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_compliance_info">
+			<listrowcolumn label="Compliance Information"/>
+			<listrow id="stat_id_current_status">
+				<listrowcolumn label="Current Status:"/>
+				<listrowcolumn label="Compliance Unknown"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_req">
+				<listrowcolumn label="Missing Requirements:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_optionals">
+				<listrowcolumn label="Remaining Optional Updates:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 22:00:10">
+	<outlinelistbox id="overview_stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_nac">
+			<listrowcolumn label="ISE Posture (Compliance Unknown)"/>
+			<listrow id="stat_id_last_check">
+				<listrowcolumn label="Latest Scan Start Time:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 22:00:10" state="Neutral">
+	<traystate id="tray_state_string" value="Compliance Unknown"/>
+	<label id="simple_status" value="System scan not required on current Wi-Fi." tooltip="System scan not required on current Wi-Fi." color="black" hidden="false" disabled="false"/>
+	<log messagehistory="System scan not required on current Wi-Fi."/>
+	<label id="simple_second_status" value="" tooltip="" color="black" hidden="false" disabled="false"/>
+	<progressmeter id="simple_progress_meter" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="simple_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<button id="detail_tile_label" label="Details" tooltip="Details" hidden="true" disabled="true"/>
+	<progressmeter id="rem_progress_bar" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="rem_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<label id="rem_progress_label" value="System Scan Progress" color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning" value=" " color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning_img" value=" " color="black" hidden="true" disabled="false"/>
+	<button id="rem_cancel_btn" label="Cancel" tooltip="Cancel" hidden="false" disabled="true"/>
+	<button id="rem_skipall_btn" label="Skip All" tooltip="Skip All" hidden="true" disabled="false"/>
+	<button id="nac_try_again_btn" label="Scan Again" tooltip="Scan Again" hidden="true" disabled="false"/>
+	<button id="simple_action_btn" label="Cancel" tooltip="Cancel" hidden="true" disabled="false"/>
+	<button id="rem_done_btn" label="Close" tooltip="Close" hidden="true" disabled="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="apilog" tag="apilog" timestamp="06-04-2025 22:00:17">
+	<statusnotification status="6" compliant="3" remStatus="48" phase="0" step="-1" progress="-1" attention="0" cancelable="0" restartable="0" description1="System scan not required on current Wi-Fi." description2=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="popup">
+	<popup timestamp="06-04-2025 22:00:17" id="nac_remediaton_popup" type="remediation" show="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 22:00:17">
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_compliance_info">
+			<listrowcolumn label="Compliance Information"/>
+			<listrow id="stat_id_current_status">
+				<listrowcolumn label="Current Status:"/>
+				<listrowcolumn label="Compliance Unknown"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_req">
+				<listrowcolumn label="Missing Requirements:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_optionals">
+				<listrowcolumn label="Remaining Optional Updates:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 22:00:17">
+	<outlinelistbox id="overview_stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_nac">
+			<listrowcolumn label="ISE Posture (Compliance Unknown)"/>
+			<listrow id="stat_id_last_check">
+				<listrowcolumn label="Latest Scan Start Time:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 22:00:17" state="Neutral">
+	<traystate id="tray_state_string" value="Compliance Unknown"/>
+	<label id="simple_status" value="System scan not required on current Wi-Fi." tooltip="System scan not required on current Wi-Fi." color="black" hidden="false" disabled="false"/>
+	<log messagehistory="System scan not required on current Wi-Fi."/>
+	<label id="simple_second_status" value="" tooltip="" color="black" hidden="false" disabled="false"/>
+	<progressmeter id="simple_progress_meter" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="simple_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<button id="detail_tile_label" label="Details" tooltip="Details" hidden="true" disabled="true"/>
+	<progressmeter id="rem_progress_bar" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="rem_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<label id="rem_progress_label" value="System Scan Progress" color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning" value=" " color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning_img" value=" " color="black" hidden="true" disabled="false"/>
+	<button id="rem_cancel_btn" label="Cancel" tooltip="Cancel" hidden="false" disabled="true"/>
+	<button id="rem_skipall_btn" label="Skip All" tooltip="Skip All" hidden="true" disabled="false"/>
+	<button id="nac_try_again_btn" label="Scan Again" tooltip="Scan Again" hidden="true" disabled="false"/>
+	<button id="simple_action_btn" label="Cancel" tooltip="Cancel" hidden="true" disabled="false"/>
+	<button id="rem_done_btn" label="Close" tooltip="Close" hidden="true" disabled="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="apilog" tag="apilog" timestamp="06-04-2025 22:00:25">
+	<statusnotification status="6" compliant="3" remStatus="48" phase="0" step="-1" progress="-1" attention="0" cancelable="0" restartable="0" description1="System scan not required on current Wi-Fi." description2=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="popup">
+	<popup timestamp="06-04-2025 22:00:25" id="nac_remediaton_popup" type="remediation" show="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 22:00:25">
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_compliance_info">
+			<listrowcolumn label="Compliance Information"/>
+			<listrow id="stat_id_current_status">
+				<listrowcolumn label="Current Status:"/>
+				<listrowcolumn label="Compliance Unknown"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_req">
+				<listrowcolumn label="Missing Requirements:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_optionals">
+				<listrowcolumn label="Remaining Optional Updates:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 22:00:25">
+	<outlinelistbox id="overview_stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_nac">
+			<listrowcolumn label="ISE Posture (Compliance Unknown)"/>
+			<listrow id="stat_id_last_check">
+				<listrowcolumn label="Latest Scan Start Time:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 22:00:25" state="Neutral">
+	<traystate id="tray_state_string" value="Compliance Unknown"/>
+	<label id="simple_status" value="System scan not required on current Wi-Fi." tooltip="System scan not required on current Wi-Fi." color="black" hidden="false" disabled="false"/>
+	<log messagehistory="System scan not required on current Wi-Fi."/>
+	<label id="simple_second_status" value="" tooltip="" color="black" hidden="false" disabled="false"/>
+	<progressmeter id="simple_progress_meter" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="simple_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<button id="detail_tile_label" label="Details" tooltip="Details" hidden="true" disabled="true"/>
+	<progressmeter id="rem_progress_bar" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="rem_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<label id="rem_progress_label" value="System Scan Progress" color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning" value=" " color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning_img" value=" " color="black" hidden="true" disabled="false"/>
+	<button id="rem_cancel_btn" label="Cancel" tooltip="Cancel" hidden="false" disabled="true"/>
+	<button id="rem_skipall_btn" label="Skip All" tooltip="Skip All" hidden="true" disabled="false"/>
+	<button id="nac_try_again_btn" label="Scan Again" tooltip="Scan Again" hidden="true" disabled="false"/>
+	<button id="simple_action_btn" label="Cancel" tooltip="Cancel" hidden="true" disabled="false"/>
+	<button id="rem_done_btn" label="Close" tooltip="Close" hidden="true" disabled="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="apilog" tag="apilog" timestamp="06-04-2025 22:00:34">
+	<statusnotification status="6" compliant="3" remStatus="48" phase="0" step="-1" progress="-1" attention="0" cancelable="0" restartable="0" description1="System scan not required on current Wi-Fi." description2=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="popup">
+	<popup timestamp="06-04-2025 22:00:34" id="nac_remediaton_popup" type="remediation" show="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 22:00:34">
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_compliance_info">
+			<listrowcolumn label="Compliance Information"/>
+			<listrow id="stat_id_current_status">
+				<listrowcolumn label="Current Status:"/>
+				<listrowcolumn label="Compliance Unknown"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_req">
+				<listrowcolumn label="Missing Requirements:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_optionals">
+				<listrowcolumn label="Remaining Optional Updates:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 22:00:34">
+	<outlinelistbox id="overview_stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_nac">
+			<listrowcolumn label="ISE Posture (Compliance Unknown)"/>
+			<listrow id="stat_id_last_check">
+				<listrowcolumn label="Latest Scan Start Time:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 22:00:34" state="Neutral">
+	<traystate id="tray_state_string" value="Compliance Unknown"/>
+	<label id="simple_status" value="System scan not required on current Wi-Fi." tooltip="System scan not required on current Wi-Fi." color="black" hidden="false" disabled="false"/>
+	<log messagehistory="System scan not required on current Wi-Fi."/>
+	<label id="simple_second_status" value="" tooltip="" color="black" hidden="false" disabled="false"/>
+	<progressmeter id="simple_progress_meter" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="simple_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<button id="detail_tile_label" label="Details" tooltip="Details" hidden="true" disabled="true"/>
+	<progressmeter id="rem_progress_bar" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="rem_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<label id="rem_progress_label" value="System Scan Progress" color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning" value=" " color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning_img" value=" " color="black" hidden="true" disabled="false"/>
+	<button id="rem_cancel_btn" label="Cancel" tooltip="Cancel" hidden="false" disabled="true"/>
+	<button id="rem_skipall_btn" label="Skip All" tooltip="Skip All" hidden="true" disabled="false"/>
+	<button id="nac_try_again_btn" label="Scan Again" tooltip="Scan Again" hidden="true" disabled="false"/>
+	<button id="simple_action_btn" label="Cancel" tooltip="Cancel" hidden="true" disabled="false"/>
+	<button id="rem_done_btn" label="Close" tooltip="Close" hidden="true" disabled="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="apilog" tag="apilog" timestamp="06-04-2025 22:00:48">
+	<statusnotification status="6" compliant="3" remStatus="48" phase="0" step="-1" progress="-1" attention="0" cancelable="0" restartable="0" description1="System scan not required on current Wi-Fi." description2=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="popup">
+	<popup timestamp="06-04-2025 22:00:48" id="nac_remediaton_popup" type="remediation" show="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 22:00:48">
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_compliance_info">
+			<listrowcolumn label="Compliance Information"/>
+			<listrow id="stat_id_current_status">
+				<listrowcolumn label="Current Status:"/>
+				<listrowcolumn label="Compliance Unknown"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_req">
+				<listrowcolumn label="Missing Requirements:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_optionals">
+				<listrowcolumn label="Remaining Optional Updates:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 22:00:48">
+	<outlinelistbox id="overview_stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_nac">
+			<listrowcolumn label="ISE Posture (Compliance Unknown)"/>
+			<listrow id="stat_id_last_check">
+				<listrowcolumn label="Latest Scan Start Time:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 22:00:48" state="Neutral">
+	<traystate id="tray_state_string" value="Compliance Unknown"/>
+	<label id="simple_status" value="System scan not required on current Wi-Fi." tooltip="System scan not required on current Wi-Fi." color="black" hidden="false" disabled="false"/>
+	<log messagehistory="System scan not required on current Wi-Fi."/>
+	<label id="simple_second_status" value="" tooltip="" color="black" hidden="false" disabled="false"/>
+	<progressmeter id="simple_progress_meter" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="simple_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<button id="detail_tile_label" label="Details" tooltip="Details" hidden="true" disabled="true"/>
+	<progressmeter id="rem_progress_bar" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="rem_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<label id="rem_progress_label" value="System Scan Progress" color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning" value=" " color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning_img" value=" " color="black" hidden="true" disabled="false"/>
+	<button id="rem_cancel_btn" label="Cancel" tooltip="Cancel" hidden="false" disabled="true"/>
+	<button id="rem_skipall_btn" label="Skip All" tooltip="Skip All" hidden="true" disabled="false"/>
+	<button id="nac_try_again_btn" label="Scan Again" tooltip="Scan Again" hidden="true" disabled="false"/>
+	<button id="simple_action_btn" label="Cancel" tooltip="Cancel" hidden="true" disabled="false"/>
+	<button id="rem_done_btn" label="Close" tooltip="Close" hidden="true" disabled="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="apilog" tag="apilog" timestamp="06-04-2025 22:01:08">
+	<statusnotification status="6" compliant="3" remStatus="48" phase="0" step="-1" progress="-1" attention="0" cancelable="0" restartable="0" description1="System scan not required on current Wi-Fi." description2=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="popup">
+	<popup timestamp="06-04-2025 22:01:08" id="nac_remediaton_popup" type="remediation" show="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 22:01:08">
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_compliance_info">
+			<listrowcolumn label="Compliance Information"/>
+			<listrow id="stat_id_current_status">
+				<listrowcolumn label="Current Status:"/>
+				<listrowcolumn label="Compliance Unknown"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_req">
+				<listrowcolumn label="Missing Requirements:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_optionals">
+				<listrowcolumn label="Remaining Optional Updates:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 22:01:08">
+	<outlinelistbox id="overview_stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_nac">
+			<listrowcolumn label="ISE Posture (Compliance Unknown)"/>
+			<listrow id="stat_id_last_check">
+				<listrowcolumn label="Latest Scan Start Time:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 22:01:08" state="Neutral">
+	<traystate id="tray_state_string" value="Compliance Unknown"/>
+	<label id="simple_status" value="System scan not required on current Wi-Fi." tooltip="System scan not required on current Wi-Fi." color="black" hidden="false" disabled="false"/>
+	<log messagehistory="System scan not required on current Wi-Fi."/>
+	<label id="simple_second_status" value="" tooltip="" color="black" hidden="false" disabled="false"/>
+	<progressmeter id="simple_progress_meter" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="simple_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<button id="detail_tile_label" label="Details" tooltip="Details" hidden="true" disabled="true"/>
+	<progressmeter id="rem_progress_bar" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="rem_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<label id="rem_progress_label" value="System Scan Progress" color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning" value=" " color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning_img" value=" " color="black" hidden="true" disabled="false"/>
+	<button id="rem_cancel_btn" label="Cancel" tooltip="Cancel" hidden="false" disabled="true"/>
+	<button id="rem_skipall_btn" label="Skip All" tooltip="Skip All" hidden="true" disabled="false"/>
+	<button id="nac_try_again_btn" label="Scan Again" tooltip="Scan Again" hidden="true" disabled="false"/>
+	<button id="simple_action_btn" label="Cancel" tooltip="Cancel" hidden="true" disabled="false"/>
+	<button id="rem_done_btn" label="Close" tooltip="Close" hidden="true" disabled="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="apilog" tag="apilog" timestamp="06-04-2025 22:57:57">
+	<statusnotification status="12" compliant="0" remStatus="61929460" phase="0" step="0" progress="0" attention="0" cancelable="0" restartable="0" description1="" description2=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 22:57:57">
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_compliance_info">
+			<listrowcolumn label="Compliance Information"/>
+			<listrow id="stat_id_current_status">
+				<listrowcolumn label="Current Status:"/>
+				<listrowcolumn label="Compliance Unknown"/>
+			</listrow>
+			<listrow id="stat_id_acceptable_usage_policy">
+				<listrowcolumn label="Acceptable Use Policy:"/>
+				<listrowcolumn label="Unknown"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_connection_info">
+			<listrowcolumn label="Connection Information"/>
+			<listrow id="stat_id_policy_server">
+				<listrowcolumn label="Policy Server:"/>
+				<listrowcolumn label=" "/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="apilog" tag="apilog" timestamp="06-04-2025 22:57:57">
+	<reportnotification timelimit="0" nagoption="0" domaintag="" itemcount="0"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" tag="rem_update" timestamp="06-04-2025 22:57:57">
+	<outlinelistbox id="system_check_listbox" updaterows="false" num_columns="4">
+		<listhead>
+			<listheader label=""/>
+			<listheader label=""/>
+			<listheader label="Updates"/>
+			<listheader label="Status"/>
+		</listhead>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="apilog" tag="apilog" timestamp="06-04-2025 22:57:57">
+	<posturenotification timelimit="0" nagoption="0" domaintag="" itemcount="0"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" tag="rem_update" timestamp="06-04-2025 22:57:57">
+	<label id="rem_req_active_name" value=" " color="black" hidden="false" disabled="false"/>
+	<label id="rem_req_active_desc" value=" " color="black" hidden="false" disabled="false"/>
+	<label id="rem_grace_time_remaining_label" value="Time Remaining:" color="black" hidden="true" disabled="false"/>
+	<timer id="rem_grace_time_remaining" value="0" hidden="true" disabled="false"/>
+	<label id="rem_status_text" value="Required update(s) are complete." color="black" hidden="false" disabled="false"/>
+	<label id="rem_description" value="Updates are needed on your computer before you can join the network." color="black" hidden="true" disabled="false"/>
+	<outlinelistbox id="rem_req_list_items" updaterows="false" selected_row="-1" num_columns="4">
+		<listhead>
+			<listheader label=""/>
+			<listheader label=""/>
+			<listheader label="Updates"/>
+			<listheader label="Status"/>
+		</listhead>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="apilog" tag="apilog" timestamp="06-04-2025 22:57:57">
+	<statusnotification status="13" compliant="3" remStatus="44812104" phase="0" step="-1" progress="-1" attention="0" cancelable="0" restartable="0" description1="4.3.3893.8192" description2=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 22:57:57">
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_compliance_info">
+			<listrowcolumn label="Compliance Information"/>
+			<listrow id="stat_id_module_version">
+				<listrowcolumn label="Compliance Module Version:"/>
+				<listrowcolumn label="4.3.3893.8192"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="apilog" tag="apilog" timestamp="06-04-2025 22:57:57">
+	<statusnotification status="3" compliant="3" remStatus="2" phase="0" step="-1" progress="-1" attention="0" cancelable="0" restartable="0" description1="Searching for policy server." description2="This could take up to 30 seconds."/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="popup">
+	<popup timestamp="06-04-2025 22:57:57" id="nac_remediaton_popup" type="remediation" show="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 22:57:57">
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_compliance_info">
+			<listrowcolumn label="Compliance Information"/>
+			<listrow id="stat_id_current_status">
+				<listrowcolumn label="Current Status:"/>
+				<listrowcolumn label="Compliance Unknown"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_req">
+				<listrowcolumn label="Missing Requirements:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_optionals">
+				<listrowcolumn label="Remaining Optional Updates:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 22:57:57">
+	<outlinelistbox id="overview_stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_nac">
+			<listrowcolumn label="ISE Posture (Compliance Unknown)"/>
+			<listrow id="stat_id_last_check">
+				<listrowcolumn label="Latest Scan Start Time:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 22:57:57" state="Transition">
+	<traystate id="tray_state_string" value="In Progress"/>
+	<label id="simple_status" value="Searching for policy server." tooltip="Searching for policy server." color="black" hidden="false" disabled="false"/>
+	<log messagehistory="Searching for policy server."/>
+	<label id="simple_second_status" value="This could take up to 30 seconds." tooltip="This could take up to 30 seconds." color="black" hidden="false" disabled="false"/>
+	<progressmeter id="simple_progress_meter" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="simple_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<button id="detail_tile_label" label="Details" tooltip="Details" hidden="true" disabled="true"/>
+	<progressmeter id="rem_progress_bar" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="rem_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<label id="rem_progress_label" value="System Scan Progress" color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning" value=" " color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning_img" value=" " color="black" hidden="true" disabled="false"/>
+	<button id="rem_cancel_btn" label="Cancel" tooltip="Cancel" hidden="false" disabled="true"/>
+	<button id="rem_skipall_btn" label="Skip All" tooltip="Skip All" hidden="true" disabled="false"/>
+	<button id="nac_try_again_btn" label="Scan Again" tooltip="Scan Again" hidden="true" disabled="false"/>
+	<button id="simple_action_btn" label="Cancel" tooltip="Cancel" hidden="true" disabled="false"/>
+	<button id="rem_done_btn" label="Close" tooltip="Close" hidden="true" disabled="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="apilog" tag="apilog" timestamp="06-04-2025 22:57:57">
+	<statusnotification status="6" compliant="3" remStatus="48" phase="0" step="-1" progress="-1" attention="0" cancelable="0" restartable="0" description1="System scan not required on current Wi-Fi." description2=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="popup">
+	<popup timestamp="06-04-2025 22:57:57" id="nac_remediaton_popup" type="remediation" show="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 22:57:57">
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_compliance_info">
+			<listrowcolumn label="Compliance Information"/>
+			<listrow id="stat_id_current_status">
+				<listrowcolumn label="Current Status:"/>
+				<listrowcolumn label="Compliance Unknown"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_req">
+				<listrowcolumn label="Missing Requirements:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_optionals">
+				<listrowcolumn label="Remaining Optional Updates:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 22:57:57">
+	<outlinelistbox id="overview_stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_nac">
+			<listrowcolumn label="ISE Posture (Compliance Unknown)"/>
+			<listrow id="stat_id_last_check">
+				<listrowcolumn label="Latest Scan Start Time:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 22:57:57" state="Neutral">
+	<traystate id="tray_state_string" value="Compliance Unknown"/>
+	<label id="simple_status" value="System scan not required on current Wi-Fi." tooltip="System scan not required on current Wi-Fi." color="black" hidden="false" disabled="false"/>
+	<log messagehistory="System scan not required on current Wi-Fi."/>
+	<label id="simple_second_status" value="" tooltip="" color="black" hidden="false" disabled="false"/>
+	<progressmeter id="simple_progress_meter" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="simple_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<button id="detail_tile_label" label="Details" tooltip="Details" hidden="true" disabled="true"/>
+	<progressmeter id="rem_progress_bar" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="rem_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<label id="rem_progress_label" value="System Scan Progress" color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning" value=" " color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning_img" value=" " color="black" hidden="true" disabled="false"/>
+	<button id="rem_cancel_btn" label="Cancel" tooltip="Cancel" hidden="false" disabled="true"/>
+	<button id="rem_skipall_btn" label="Skip All" tooltip="Skip All" hidden="true" disabled="false"/>
+	<button id="nac_try_again_btn" label="Scan Again" tooltip="Scan Again" hidden="true" disabled="false"/>
+	<button id="simple_action_btn" label="Cancel" tooltip="Cancel" hidden="true" disabled="false"/>
+	<button id="rem_done_btn" label="Close" tooltip="Close" hidden="true" disabled="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="apilog" tag="apilog" timestamp="06-04-2025 22:58:03">
+	<statusnotification status="6" compliant="3" remStatus="48" phase="0" step="-1" progress="-1" attention="0" cancelable="0" restartable="0" description1="System scan not required on current Wi-Fi." description2=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="popup">
+	<popup timestamp="06-04-2025 22:58:03" id="nac_remediaton_popup" type="remediation" show="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 22:58:03">
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_compliance_info">
+			<listrowcolumn label="Compliance Information"/>
+			<listrow id="stat_id_current_status">
+				<listrowcolumn label="Current Status:"/>
+				<listrowcolumn label="Compliance Unknown"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_req">
+				<listrowcolumn label="Missing Requirements:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_optionals">
+				<listrowcolumn label="Remaining Optional Updates:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 22:58:03">
+	<outlinelistbox id="overview_stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_nac">
+			<listrowcolumn label="ISE Posture (Compliance Unknown)"/>
+			<listrow id="stat_id_last_check">
+				<listrowcolumn label="Latest Scan Start Time:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 22:58:03" state="Neutral">
+	<traystate id="tray_state_string" value="Compliance Unknown"/>
+	<label id="simple_status" value="System scan not required on current Wi-Fi." tooltip="System scan not required on current Wi-Fi." color="black" hidden="false" disabled="false"/>
+	<log messagehistory="System scan not required on current Wi-Fi."/>
+	<label id="simple_second_status" value="" tooltip="" color="black" hidden="false" disabled="false"/>
+	<progressmeter id="simple_progress_meter" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="simple_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<button id="detail_tile_label" label="Details" tooltip="Details" hidden="true" disabled="true"/>
+	<progressmeter id="rem_progress_bar" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="rem_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<label id="rem_progress_label" value="System Scan Progress" color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning" value=" " color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning_img" value=" " color="black" hidden="true" disabled="false"/>
+	<button id="rem_cancel_btn" label="Cancel" tooltip="Cancel" hidden="false" disabled="true"/>
+	<button id="rem_skipall_btn" label="Skip All" tooltip="Skip All" hidden="true" disabled="false"/>
+	<button id="nac_try_again_btn" label="Scan Again" tooltip="Scan Again" hidden="true" disabled="false"/>
+	<button id="simple_action_btn" label="Cancel" tooltip="Cancel" hidden="true" disabled="false"/>
+	<button id="rem_done_btn" label="Close" tooltip="Close" hidden="true" disabled="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="apilog" tag="apilog" timestamp="06-04-2025 22:58:07">
+	<statusnotification AgentStatus="ok" strV4ProtectionStatus="reserved" strV6ProtectionStatus="disabledNoNwStack" strV4IpBlockingStatus="notProtected" bV4IpBlockingConnectionError="Disabled" strV6IpBlockingStatus="notProtected" bV6IpBlockingConnectionError="Disabled" strClientName="LTIN620245" strUserName="" timeLastConnected="1743827856" bLoggingEnabled="Disabled" strSWGAgentStatus="unprotected"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="06-04-2025 22:58:07" state="Good">
+	<label id="simple_tile_label" value="Umbrella:" tooltip="Navigate to Umbrella Advanced Window" color="black" hidden="false" disabled="false"/>
+	<label id="simple_status" value="Umbrella is active." tooltip="" color="black" hidden="false" disabled="false"/>
+	<label id="simple_second_status" value=" " tooltip="" color="black" hidden="false" disabled="false"/>
+	<traystate id="tray_state_string" value="Active."/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="06-04-2025 22:58:07">
+	<outlinelistbox id="overview_stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_opendns">
+			<listrowcolumn label="Umbrella"/>
+			<listrow id="stat_id_ipv4_DNS_protection">
+				<listrowcolumn label="IPv4 DNS Protection Status:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+			<listrow id="stat_id_ipv6_DNS_protection">
+				<listrowcolumn label="IPv6 DNS Protection Status:"/>
+				<listrowcolumn label="Disabled (no network)"/>
+			</listrow>
+			<listrow id="stat_id_SWG_protection_status">
+				<listrowcolumn label="Web Protection Status:"/>
+				<listrowcolumn label="Disabled"/>
+			</listrow>
+			<listrow id="stat_id_last_connected">
+				<listrowcolumn label="Last Connected:"/>
+				<listrowcolumn label="05-04-2025 10:07:36 AM"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="06-04-2025 22:58:07">
+	<preferences/>
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_connection_info">
+			<listrowcolumn label="DNS/IP Security Information"/>
+			<listrow id="stat_id_ipv4_protection_status">
+				<listrowcolumn label="IPv4 DNS Protection Status:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+			<listrow id="stat_id_ipv4_dns_encryption">
+				<listrowcolumn label="IPv4 DNS Encryption:"/>
+				<listrowcolumn label="Off"/>
+			</listrow>
+			<listrow id="stat_id_ipv6_protection_status">
+				<listrowcolumn label="IPv6 DNS Protection Status:"/>
+				<listrowcolumn label="Disabled (no network)"/>
+			</listrow>
+			<listrow id="stat_id_ipv6_dns_encryption">
+				<listrowcolumn label="IPv6 DNS Encryption:"/>
+				<listrowcolumn label="Off"/>
+			</listrow>
+			<listrow id="stat_id_client_name">
+				<listrowcolumn label="Client Name:"/>
+				<listrowcolumn label="LTIN620245"/>
+			</listrow>
+			<listrow id="stat_id_user_name">
+				<listrowcolumn label="User Name:"/>
+				<listrowcolumn label=""/>
+			</listrow>
+			<listrow id="stat_id_last_connected">
+				<listrowcolumn label="Last Connected:"/>
+				<listrowcolumn label="05-04-2025 10:07:36 AM"/>
+			</listrow>
+			<listrow id="stat_id_logging">
+				<listrowcolumn label="Logging:"/>
+				<listrowcolumn label="Disabled"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_swg_info">
+			<listrowcolumn label="Secure Web Gateway"/>
+			<listrow id="stat_id_SWG_license_status">
+				<listrowcolumn label="License"/>
+				<listrowcolumn label="Invalid"/>
+			</listrow>
+			<listrow id="stat_id_SWG_protection_status">
+				<listrowcolumn label="Web Protection Status:"/>
+				<listrowcolumn label="Disabled"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="apilog" tag="apilog" timestamp="06-04-2025 22:58:10">
+	<statusnotification status="6" compliant="3" remStatus="48" phase="0" step="-1" progress="-1" attention="0" cancelable="0" restartable="0" description1="System scan not required on current Wi-Fi." description2=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="popup">
+	<popup timestamp="06-04-2025 22:58:10" id="nac_remediaton_popup" type="remediation" show="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 22:58:10">
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_compliance_info">
+			<listrowcolumn label="Compliance Information"/>
+			<listrow id="stat_id_current_status">
+				<listrowcolumn label="Current Status:"/>
+				<listrowcolumn label="Compliance Unknown"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_req">
+				<listrowcolumn label="Missing Requirements:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_optionals">
+				<listrowcolumn label="Remaining Optional Updates:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 22:58:10">
+	<outlinelistbox id="overview_stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_nac">
+			<listrowcolumn label="ISE Posture (Compliance Unknown)"/>
+			<listrow id="stat_id_last_check">
+				<listrowcolumn label="Latest Scan Start Time:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 22:58:10" state="Neutral">
+	<traystate id="tray_state_string" value="Compliance Unknown"/>
+	<label id="simple_status" value="System scan not required on current Wi-Fi." tooltip="System scan not required on current Wi-Fi." color="black" hidden="false" disabled="false"/>
+	<log messagehistory="System scan not required on current Wi-Fi."/>
+	<label id="simple_second_status" value="" tooltip="" color="black" hidden="false" disabled="false"/>
+	<progressmeter id="simple_progress_meter" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="simple_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<button id="detail_tile_label" label="Details" tooltip="Details" hidden="true" disabled="true"/>
+	<progressmeter id="rem_progress_bar" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="rem_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<label id="rem_progress_label" value="System Scan Progress" color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning" value=" " color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning_img" value=" " color="black" hidden="true" disabled="false"/>
+	<button id="rem_cancel_btn" label="Cancel" tooltip="Cancel" hidden="false" disabled="true"/>
+	<button id="rem_skipall_btn" label="Skip All" tooltip="Skip All" hidden="true" disabled="false"/>
+	<button id="nac_try_again_btn" label="Scan Again" tooltip="Scan Again" hidden="true" disabled="false"/>
+	<button id="simple_action_btn" label="Cancel" tooltip="Cancel" hidden="true" disabled="false"/>
+	<button id="rem_done_btn" label="Close" tooltip="Close" hidden="true" disabled="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="apilog" tag="apilog" timestamp="06-04-2025 22:58:17">
+	<statusnotification AgentStatus="ok" strV4ProtectionStatus="reserved" strV6ProtectionStatus="disabledNoNwStack" strV4IpBlockingStatus="notProtected" bV4IpBlockingConnectionError="Disabled" strV6IpBlockingStatus="notProtected" bV6IpBlockingConnectionError="Disabled" strClientName="LTIN620245" strUserName="" timeLastConnected="1743827856" bLoggingEnabled="Disabled" strSWGAgentStatus="unprotected"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="06-04-2025 22:58:17" state="Good">
+	<label id="simple_tile_label" value="Umbrella:" tooltip="Navigate to Umbrella Advanced Window" color="black" hidden="false" disabled="false"/>
+	<label id="simple_status" value="Umbrella is active." tooltip="" color="black" hidden="false" disabled="false"/>
+	<label id="simple_second_status" value=" " tooltip="" color="black" hidden="false" disabled="false"/>
+	<traystate id="tray_state_string" value="Active."/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="06-04-2025 22:58:17">
+	<outlinelistbox id="overview_stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_opendns">
+			<listrowcolumn label="Umbrella"/>
+			<listrow id="stat_id_ipv4_DNS_protection">
+				<listrowcolumn label="IPv4 DNS Protection Status:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+			<listrow id="stat_id_ipv6_DNS_protection">
+				<listrowcolumn label="IPv6 DNS Protection Status:"/>
+				<listrowcolumn label="Disabled (no network)"/>
+			</listrow>
+			<listrow id="stat_id_SWG_protection_status">
+				<listrowcolumn label="Web Protection Status:"/>
+				<listrowcolumn label="Disabled"/>
+			</listrow>
+			<listrow id="stat_id_last_connected">
+				<listrowcolumn label="Last Connected:"/>
+				<listrowcolumn label="05-04-2025 10:07:36 AM"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="06-04-2025 22:58:17">
+	<preferences/>
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_connection_info">
+			<listrowcolumn label="DNS/IP Security Information"/>
+			<listrow id="stat_id_ipv4_protection_status">
+				<listrowcolumn label="IPv4 DNS Protection Status:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+			<listrow id="stat_id_ipv4_dns_encryption">
+				<listrowcolumn label="IPv4 DNS Encryption:"/>
+				<listrowcolumn label="Off"/>
+			</listrow>
+			<listrow id="stat_id_ipv6_protection_status">
+				<listrowcolumn label="IPv6 DNS Protection Status:"/>
+				<listrowcolumn label="Disabled (no network)"/>
+			</listrow>
+			<listrow id="stat_id_ipv6_dns_encryption">
+				<listrowcolumn label="IPv6 DNS Encryption:"/>
+				<listrowcolumn label="Off"/>
+			</listrow>
+			<listrow id="stat_id_client_name">
+				<listrowcolumn label="Client Name:"/>
+				<listrowcolumn label="LTIN620245"/>
+			</listrow>
+			<listrow id="stat_id_user_name">
+				<listrowcolumn label="User Name:"/>
+				<listrowcolumn label=""/>
+			</listrow>
+			<listrow id="stat_id_last_connected">
+				<listrowcolumn label="Last Connected:"/>
+				<listrowcolumn label="05-04-2025 10:07:36 AM"/>
+			</listrow>
+			<listrow id="stat_id_logging">
+				<listrowcolumn label="Logging:"/>
+				<listrowcolumn label="Disabled"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_swg_info">
+			<listrowcolumn label="Secure Web Gateway"/>
+			<listrow id="stat_id_SWG_license_status">
+				<listrowcolumn label="License"/>
+				<listrowcolumn label="Invalid"/>
+			</listrow>
+			<listrow id="stat_id_SWG_protection_status">
+				<listrowcolumn label="Web Protection Status:"/>
+				<listrowcolumn label="Disabled"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="apilog" tag="apilog" timestamp="06-04-2025 22:58:18">
+	<statusnotification status="6" compliant="3" remStatus="48" phase="0" step="-1" progress="-1" attention="0" cancelable="0" restartable="0" description1="System scan not required on current Wi-Fi." description2=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="popup">
+	<popup timestamp="06-04-2025 22:58:18" id="nac_remediaton_popup" type="remediation" show="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 22:58:18">
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_compliance_info">
+			<listrowcolumn label="Compliance Information"/>
+			<listrow id="stat_id_current_status">
+				<listrowcolumn label="Current Status:"/>
+				<listrowcolumn label="Compliance Unknown"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_req">
+				<listrowcolumn label="Missing Requirements:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_optionals">
+				<listrowcolumn label="Remaining Optional Updates:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 22:58:18">
+	<outlinelistbox id="overview_stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_nac">
+			<listrowcolumn label="ISE Posture (Compliance Unknown)"/>
+			<listrow id="stat_id_last_check">
+				<listrowcolumn label="Latest Scan Start Time:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 22:58:18" state="Neutral">
+	<traystate id="tray_state_string" value="Compliance Unknown"/>
+	<label id="simple_status" value="System scan not required on current Wi-Fi." tooltip="System scan not required on current Wi-Fi." color="black" hidden="false" disabled="false"/>
+	<log messagehistory="System scan not required on current Wi-Fi."/>
+	<label id="simple_second_status" value="" tooltip="" color="black" hidden="false" disabled="false"/>
+	<progressmeter id="simple_progress_meter" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="simple_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<button id="detail_tile_label" label="Details" tooltip="Details" hidden="true" disabled="true"/>
+	<progressmeter id="rem_progress_bar" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="rem_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<label id="rem_progress_label" value="System Scan Progress" color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning" value=" " color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning_img" value=" " color="black" hidden="true" disabled="false"/>
+	<button id="rem_cancel_btn" label="Cancel" tooltip="Cancel" hidden="false" disabled="true"/>
+	<button id="rem_skipall_btn" label="Skip All" tooltip="Skip All" hidden="true" disabled="false"/>
+	<button id="nac_try_again_btn" label="Scan Again" tooltip="Scan Again" hidden="true" disabled="false"/>
+	<button id="simple_action_btn" label="Cancel" tooltip="Cancel" hidden="true" disabled="false"/>
+	<button id="rem_done_btn" label="Close" tooltip="Close" hidden="true" disabled="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="apilog" tag="apilog" timestamp="06-04-2025 22:58:24">
+	<statusnotification AgentStatus="ok" strV4ProtectionStatus="open" strV6ProtectionStatus="disabledNoNwStack" strV4IpBlockingStatus="notProtected" bV4IpBlockingConnectionError="Disabled" strV6IpBlockingStatus="notProtected" bV6IpBlockingConnectionError="Disabled" strClientName="LTIN620245" strUserName="" timeLastConnected="1743827856" bLoggingEnabled="Disabled" strSWGAgentStatus="unprotected"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="06-04-2025 22:58:24" state="Attention">
+	<label id="simple_tile_label" value="Umbrella:" tooltip="Navigate to Umbrella Advanced Window" color="black" hidden="false" disabled="false"/>
+	<label id="simple_status" value="Umbrella is active." tooltip="" color="black" hidden="false" disabled="false"/>
+	<label id="simple_second_status" value=" " tooltip="" color="black" hidden="false" disabled="false"/>
+	<traystate id="tray_state_string" value="Active."/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="06-04-2025 22:58:24">
+	<outlinelistbox id="overview_stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_opendns">
+			<listrowcolumn label="Umbrella"/>
+			<listrow id="stat_id_ipv4_DNS_protection">
+				<listrowcolumn label="IPv4 DNS Protection Status:"/>
+				<listrowcolumn label="Unprotected"/>
+			</listrow>
+			<listrow id="stat_id_ipv6_DNS_protection">
+				<listrowcolumn label="IPv6 DNS Protection Status:"/>
+				<listrowcolumn label="Disabled (no network)"/>
+			</listrow>
+			<listrow id="stat_id_SWG_protection_status">
+				<listrowcolumn label="Web Protection Status:"/>
+				<listrowcolumn label="Disabled"/>
+			</listrow>
+			<listrow id="stat_id_last_connected">
+				<listrowcolumn label="Last Connected:"/>
+				<listrowcolumn label="05-04-2025 10:07:36 AM"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="06-04-2025 22:58:24">
+	<preferences/>
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_connection_info">
+			<listrowcolumn label="DNS/IP Security Information"/>
+			<listrow id="stat_id_ipv4_protection_status">
+				<listrowcolumn label="IPv4 DNS Protection Status:"/>
+				<listrowcolumn label="Unprotected"/>
+			</listrow>
+			<listrow id="stat_id_ipv4_dns_encryption">
+				<listrowcolumn label="IPv4 DNS Encryption:"/>
+				<listrowcolumn label="Off"/>
+			</listrow>
+			<listrow id="stat_id_ipv6_protection_status">
+				<listrowcolumn label="IPv6 DNS Protection Status:"/>
+				<listrowcolumn label="Disabled (no network)"/>
+			</listrow>
+			<listrow id="stat_id_ipv6_dns_encryption">
+				<listrowcolumn label="IPv6 DNS Encryption:"/>
+				<listrowcolumn label="Off"/>
+			</listrow>
+			<listrow id="stat_id_client_name">
+				<listrowcolumn label="Client Name:"/>
+				<listrowcolumn label="LTIN620245"/>
+			</listrow>
+			<listrow id="stat_id_user_name">
+				<listrowcolumn label="User Name:"/>
+				<listrowcolumn label=""/>
+			</listrow>
+			<listrow id="stat_id_last_connected">
+				<listrowcolumn label="Last Connected:"/>
+				<listrowcolumn label="05-04-2025 10:07:36 AM"/>
+			</listrow>
+			<listrow id="stat_id_logging">
+				<listrowcolumn label="Logging:"/>
+				<listrowcolumn label="Disabled"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_swg_info">
+			<listrowcolumn label="Secure Web Gateway"/>
+			<listrow id="stat_id_SWG_license_status">
+				<listrowcolumn label="License"/>
+				<listrowcolumn label="Invalid"/>
+			</listrow>
+			<listrow id="stat_id_SWG_protection_status">
+				<listrowcolumn label="Web Protection Status:"/>
+				<listrowcolumn label="Disabled"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="apilog" tag="apilog" timestamp="06-04-2025 22:59:34">
+	<statusnotification AgentStatus="ok" strV4ProtectionStatus="reserved" strV6ProtectionStatus="disabledNoNwStack" strV4IpBlockingStatus="notProtected" bV4IpBlockingConnectionError="Disabled" strV6IpBlockingStatus="notProtected" bV6IpBlockingConnectionError="Disabled" strClientName="LTIN620245" strUserName="" timeLastConnected="1743827856" bLoggingEnabled="Disabled" strSWGAgentStatus="unprotected"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="06-04-2025 22:59:34" state="Good">
+	<label id="simple_tile_label" value="Umbrella:" tooltip="Navigate to Umbrella Advanced Window" color="black" hidden="false" disabled="false"/>
+	<label id="simple_status" value="Umbrella is active." tooltip="" color="black" hidden="false" disabled="false"/>
+	<label id="simple_second_status" value=" " tooltip="" color="black" hidden="false" disabled="false"/>
+	<traystate id="tray_state_string" value="Active."/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="06-04-2025 22:59:34">
+	<outlinelistbox id="overview_stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_opendns">
+			<listrowcolumn label="Umbrella"/>
+			<listrow id="stat_id_ipv4_DNS_protection">
+				<listrowcolumn label="IPv4 DNS Protection Status:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+			<listrow id="stat_id_ipv6_DNS_protection">
+				<listrowcolumn label="IPv6 DNS Protection Status:"/>
+				<listrowcolumn label="Disabled (no network)"/>
+			</listrow>
+			<listrow id="stat_id_SWG_protection_status">
+				<listrowcolumn label="Web Protection Status:"/>
+				<listrowcolumn label="Disabled"/>
+			</listrow>
+			<listrow id="stat_id_last_connected">
+				<listrowcolumn label="Last Connected:"/>
+				<listrowcolumn label="05-04-2025 10:07:36 AM"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="06-04-2025 22:59:34">
+	<preferences/>
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_connection_info">
+			<listrowcolumn label="DNS/IP Security Information"/>
+			<listrow id="stat_id_ipv4_protection_status">
+				<listrowcolumn label="IPv4 DNS Protection Status:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+			<listrow id="stat_id_ipv4_dns_encryption">
+				<listrowcolumn label="IPv4 DNS Encryption:"/>
+				<listrowcolumn label="Off"/>
+			</listrow>
+			<listrow id="stat_id_ipv6_protection_status">
+				<listrowcolumn label="IPv6 DNS Protection Status:"/>
+				<listrowcolumn label="Disabled (no network)"/>
+			</listrow>
+			<listrow id="stat_id_ipv6_dns_encryption">
+				<listrowcolumn label="IPv6 DNS Encryption:"/>
+				<listrowcolumn label="Off"/>
+			</listrow>
+			<listrow id="stat_id_client_name">
+				<listrowcolumn label="Client Name:"/>
+				<listrowcolumn label="LTIN620245"/>
+			</listrow>
+			<listrow id="stat_id_user_name">
+				<listrowcolumn label="User Name:"/>
+				<listrowcolumn label=""/>
+			</listrow>
+			<listrow id="stat_id_last_connected">
+				<listrowcolumn label="Last Connected:"/>
+				<listrowcolumn label="05-04-2025 10:07:36 AM"/>
+			</listrow>
+			<listrow id="stat_id_logging">
+				<listrowcolumn label="Logging:"/>
+				<listrowcolumn label="Disabled"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_swg_info">
+			<listrowcolumn label="Secure Web Gateway"/>
+			<listrow id="stat_id_SWG_license_status">
+				<listrowcolumn label="License"/>
+				<listrowcolumn label="Invalid"/>
+			</listrow>
+			<listrow id="stat_id_SWG_protection_status">
+				<listrowcolumn label="Web Protection Status:"/>
+				<listrowcolumn label="Disabled"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="apilog" tag="apilog" timestamp="06-04-2025 22:59:34">
+	<statusnotification AgentStatus="ok" strV4ProtectionStatus="open" strV6ProtectionStatus="disabledNoNwStack" strV4IpBlockingStatus="notProtected" bV4IpBlockingConnectionError="Disabled" strV6IpBlockingStatus="notProtected" bV6IpBlockingConnectionError="Disabled" strClientName="LTIN620245" strUserName="" timeLastConnected="1743827856" bLoggingEnabled="Disabled" strSWGAgentStatus="unprotected"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="06-04-2025 22:59:34" state="Attention">
+	<label id="simple_tile_label" value="Umbrella:" tooltip="Navigate to Umbrella Advanced Window" color="black" hidden="false" disabled="false"/>
+	<label id="simple_status" value="Umbrella is active." tooltip="" color="black" hidden="false" disabled="false"/>
+	<label id="simple_second_status" value=" " tooltip="" color="black" hidden="false" disabled="false"/>
+	<traystate id="tray_state_string" value="Active."/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="06-04-2025 22:59:34">
+	<outlinelistbox id="overview_stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_opendns">
+			<listrowcolumn label="Umbrella"/>
+			<listrow id="stat_id_ipv4_DNS_protection">
+				<listrowcolumn label="IPv4 DNS Protection Status:"/>
+				<listrowcolumn label="Unprotected"/>
+			</listrow>
+			<listrow id="stat_id_ipv6_DNS_protection">
+				<listrowcolumn label="IPv6 DNS Protection Status:"/>
+				<listrowcolumn label="Disabled (no network)"/>
+			</listrow>
+			<listrow id="stat_id_SWG_protection_status">
+				<listrowcolumn label="Web Protection Status:"/>
+				<listrowcolumn label="Disabled"/>
+			</listrow>
+			<listrow id="stat_id_last_connected">
+				<listrowcolumn label="Last Connected:"/>
+				<listrowcolumn label="05-04-2025 10:07:36 AM"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="06-04-2025 22:59:35">
+	<preferences/>
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_connection_info">
+			<listrowcolumn label="DNS/IP Security Information"/>
+			<listrow id="stat_id_ipv4_protection_status">
+				<listrowcolumn label="IPv4 DNS Protection Status:"/>
+				<listrowcolumn label="Unprotected"/>
+			</listrow>
+			<listrow id="stat_id_ipv4_dns_encryption">
+				<listrowcolumn label="IPv4 DNS Encryption:"/>
+				<listrowcolumn label="Off"/>
+			</listrow>
+			<listrow id="stat_id_ipv6_protection_status">
+				<listrowcolumn label="IPv6 DNS Protection Status:"/>
+				<listrowcolumn label="Disabled (no network)"/>
+			</listrow>
+			<listrow id="stat_id_ipv6_dns_encryption">
+				<listrowcolumn label="IPv6 DNS Encryption:"/>
+				<listrowcolumn label="Off"/>
+			</listrow>
+			<listrow id="stat_id_client_name">
+				<listrowcolumn label="Client Name:"/>
+				<listrowcolumn label="LTIN620245"/>
+			</listrow>
+			<listrow id="stat_id_user_name">
+				<listrowcolumn label="User Name:"/>
+				<listrowcolumn label=""/>
+			</listrow>
+			<listrow id="stat_id_last_connected">
+				<listrowcolumn label="Last Connected:"/>
+				<listrowcolumn label="05-04-2025 10:07:36 AM"/>
+			</listrow>
+			<listrow id="stat_id_logging">
+				<listrowcolumn label="Logging:"/>
+				<listrowcolumn label="Disabled"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_swg_info">
+			<listrowcolumn label="Secure Web Gateway"/>
+			<listrow id="stat_id_SWG_license_status">
+				<listrowcolumn label="License"/>
+				<listrowcolumn label="Invalid"/>
+			</listrow>
+			<listrow id="stat_id_SWG_protection_status">
+				<listrowcolumn label="Web Protection Status:"/>
+				<listrowcolumn label="Disabled"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="apilog" tag="apilog" timestamp="06-04-2025 22:59:35">
+	<statusnotification AgentStatus="ok" strV4ProtectionStatus="open" strV6ProtectionStatus="disabledNoNwStack" strV4IpBlockingStatus="notProtected" bV4IpBlockingConnectionError="Disabled" strV6IpBlockingStatus="notProtected" bV6IpBlockingConnectionError="Disabled" strClientName="LTIN620245" strUserName="" timeLastConnected="1743827856" bLoggingEnabled="Disabled" strSWGAgentStatus="unprotected"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="06-04-2025 22:59:35" state="Attention">
+	<label id="simple_tile_label" value="Umbrella:" tooltip="Navigate to Umbrella Advanced Window" color="black" hidden="false" disabled="false"/>
+	<label id="simple_status" value="Umbrella is active." tooltip="" color="black" hidden="false" disabled="false"/>
+	<label id="simple_second_status" value=" " tooltip="" color="black" hidden="false" disabled="false"/>
+	<traystate id="tray_state_string" value="Active."/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="06-04-2025 22:59:35">
+	<outlinelistbox id="overview_stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_opendns">
+			<listrowcolumn label="Umbrella"/>
+			<listrow id="stat_id_ipv4_DNS_protection">
+				<listrowcolumn label="IPv4 DNS Protection Status:"/>
+				<listrowcolumn label="Unprotected"/>
+			</listrow>
+			<listrow id="stat_id_ipv6_DNS_protection">
+				<listrowcolumn label="IPv6 DNS Protection Status:"/>
+				<listrowcolumn label="Disabled (no network)"/>
+			</listrow>
+			<listrow id="stat_id_SWG_protection_status">
+				<listrowcolumn label="Web Protection Status:"/>
+				<listrowcolumn label="Disabled"/>
+			</listrow>
+			<listrow id="stat_id_last_connected">
+				<listrowcolumn label="Last Connected:"/>
+				<listrowcolumn label="05-04-2025 10:07:36 AM"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.umbrella" type="update" timestamp="06-04-2025 22:59:35">
+	<preferences/>
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_connection_info">
+			<listrowcolumn label="DNS/IP Security Information"/>
+			<listrow id="stat_id_ipv4_protection_status">
+				<listrowcolumn label="IPv4 DNS Protection Status:"/>
+				<listrowcolumn label="Unprotected"/>
+			</listrow>
+			<listrow id="stat_id_ipv4_dns_encryption">
+				<listrowcolumn label="IPv4 DNS Encryption:"/>
+				<listrowcolumn label="Off"/>
+			</listrow>
+			<listrow id="stat_id_ipv6_protection_status">
+				<listrowcolumn label="IPv6 DNS Protection Status:"/>
+				<listrowcolumn label="Disabled (no network)"/>
+			</listrow>
+			<listrow id="stat_id_ipv6_dns_encryption">
+				<listrowcolumn label="IPv6 DNS Encryption:"/>
+				<listrowcolumn label="Off"/>
+			</listrow>
+			<listrow id="stat_id_client_name">
+				<listrowcolumn label="Client Name:"/>
+				<listrowcolumn label="LTIN620245"/>
+			</listrow>
+			<listrow id="stat_id_user_name">
+				<listrowcolumn label="User Name:"/>
+				<listrowcolumn label=""/>
+			</listrow>
+			<listrow id="stat_id_last_connected">
+				<listrowcolumn label="Last Connected:"/>
+				<listrowcolumn label="05-04-2025 10:07:36 AM"/>
+			</listrow>
+			<listrow id="stat_id_logging">
+				<listrowcolumn label="Logging:"/>
+				<listrowcolumn label="Disabled"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_swg_info">
+			<listrowcolumn label="Secure Web Gateway"/>
+			<listrow id="stat_id_SWG_license_status">
+				<listrowcolumn label="License"/>
+				<listrowcolumn label="Invalid"/>
+			</listrow>
+			<listrow id="stat_id_SWG_protection_status">
+				<listrowcolumn label="Web Protection Status:"/>
+				<listrowcolumn label="Disabled"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="apilog" tag="apilog" timestamp="06-04-2025 23:01:15">
+	<statusnotification status="12" compliant="0" remStatus="61929460" phase="0" step="0" progress="0" attention="0" cancelable="0" restartable="0" description1="" description2=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 23:01:15">
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_compliance_info">
+			<listrowcolumn label="Compliance Information"/>
+			<listrow id="stat_id_current_status">
+				<listrowcolumn label="Current Status:"/>
+				<listrowcolumn label="Compliance Unknown"/>
+			</listrow>
+			<listrow id="stat_id_acceptable_usage_policy">
+				<listrowcolumn label="Acceptable Use Policy:"/>
+				<listrowcolumn label="Unknown"/>
+			</listrow>
+		</listgroup>
+		<listgroup id="stat_group_connection_info">
+			<listrowcolumn label="Connection Information"/>
+			<listrow id="stat_id_policy_server">
+				<listrowcolumn label="Policy Server:"/>
+				<listrowcolumn label=" "/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="apilog" tag="apilog" timestamp="06-04-2025 23:01:15">
+	<reportnotification timelimit="0" nagoption="0" domaintag="" itemcount="0"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" tag="rem_update" timestamp="06-04-2025 23:01:15">
+	<outlinelistbox id="system_check_listbox" updaterows="false" num_columns="4">
+		<listhead>
+			<listheader label=""/>
+			<listheader label=""/>
+			<listheader label="Updates"/>
+			<listheader label="Status"/>
+		</listhead>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="apilog" tag="apilog" timestamp="06-04-2025 23:01:15">
+	<posturenotification timelimit="0" nagoption="0" domaintag="" itemcount="0"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" tag="rem_update" timestamp="06-04-2025 23:01:15">
+	<label id="rem_req_active_name" value=" " color="black" hidden="false" disabled="false"/>
+	<label id="rem_req_active_desc" value=" " color="black" hidden="false" disabled="false"/>
+	<label id="rem_grace_time_remaining_label" value="Time Remaining:" color="black" hidden="true" disabled="false"/>
+	<timer id="rem_grace_time_remaining" value="0" hidden="true" disabled="false"/>
+	<label id="rem_status_text" value="Required update(s) are complete." color="black" hidden="false" disabled="false"/>
+	<label id="rem_description" value="Updates are needed on your computer before you can join the network." color="black" hidden="true" disabled="false"/>
+	<outlinelistbox id="rem_req_list_items" updaterows="false" selected_row="-1" num_columns="4">
+		<listhead>
+			<listheader label=""/>
+			<listheader label=""/>
+			<listheader label="Updates"/>
+			<listheader label="Status"/>
+		</listhead>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="apilog" tag="apilog" timestamp="06-04-2025 23:01:15">
+	<statusnotification status="13" compliant="3" remStatus="44812104" phase="0" step="-1" progress="-1" attention="0" cancelable="0" restartable="0" description1="4.3.3893.8192" description2=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 23:01:15">
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_compliance_info">
+			<listrowcolumn label="Compliance Information"/>
+			<listrow id="stat_id_module_version">
+				<listrowcolumn label="Compliance Module Version:"/>
+				<listrowcolumn label="4.3.3893.8192"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="apilog" tag="apilog" timestamp="06-04-2025 23:01:15">
+	<statusnotification status="3" compliant="3" remStatus="2" phase="0" step="-1" progress="-1" attention="0" cancelable="0" restartable="0" description1="Searching for policy server." description2="This could take up to 30 seconds."/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="popup">
+	<popup timestamp="06-04-2025 23:01:15" id="nac_remediaton_popup" type="remediation" show="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 23:01:15">
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_compliance_info">
+			<listrowcolumn label="Compliance Information"/>
+			<listrow id="stat_id_current_status">
+				<listrowcolumn label="Current Status:"/>
+				<listrowcolumn label="Compliance Unknown"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_req">
+				<listrowcolumn label="Missing Requirements:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_optionals">
+				<listrowcolumn label="Remaining Optional Updates:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 23:01:15">
+	<outlinelistbox id="overview_stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_nac">
+			<listrowcolumn label="ISE Posture (Compliance Unknown)"/>
+			<listrow id="stat_id_last_check">
+				<listrowcolumn label="Latest Scan Start Time:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 23:01:15" state="Transition">
+	<traystate id="tray_state_string" value="In Progress"/>
+	<label id="simple_status" value="Searching for policy server." tooltip="Searching for policy server." color="black" hidden="false" disabled="false"/>
+	<log messagehistory="Searching for policy server."/>
+	<label id="simple_second_status" value="This could take up to 30 seconds." tooltip="This could take up to 30 seconds." color="black" hidden="false" disabled="false"/>
+	<progressmeter id="simple_progress_meter" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="simple_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<button id="detail_tile_label" label="Details" tooltip="Details" hidden="true" disabled="true"/>
+	<progressmeter id="rem_progress_bar" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="rem_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<label id="rem_progress_label" value="System Scan Progress" color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning" value=" " color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning_img" value=" " color="black" hidden="true" disabled="false"/>
+	<button id="rem_cancel_btn" label="Cancel" tooltip="Cancel" hidden="false" disabled="true"/>
+	<button id="rem_skipall_btn" label="Skip All" tooltip="Skip All" hidden="true" disabled="false"/>
+	<button id="nac_try_again_btn" label="Scan Again" tooltip="Scan Again" hidden="true" disabled="false"/>
+	<button id="simple_action_btn" label="Cancel" tooltip="Cancel" hidden="true" disabled="false"/>
+	<button id="rem_done_btn" label="Close" tooltip="Close" hidden="true" disabled="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="apilog" tag="apilog" timestamp="06-04-2025 23:01:15">
+	<statusnotification status="6" compliant="3" remStatus="48" phase="0" step="-1" progress="-1" attention="0" cancelable="0" restartable="0" description1="System scan not required on current Wi-Fi." description2=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="popup">
+	<popup timestamp="06-04-2025 23:01:15" id="nac_remediaton_popup" type="remediation" show="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 23:01:15">
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_compliance_info">
+			<listrowcolumn label="Compliance Information"/>
+			<listrow id="stat_id_current_status">
+				<listrowcolumn label="Current Status:"/>
+				<listrowcolumn label="Compliance Unknown"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_req">
+				<listrowcolumn label="Missing Requirements:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_optionals">
+				<listrowcolumn label="Remaining Optional Updates:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 23:01:15">
+	<outlinelistbox id="overview_stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_nac">
+			<listrowcolumn label="ISE Posture (Compliance Unknown)"/>
+			<listrow id="stat_id_last_check">
+				<listrowcolumn label="Latest Scan Start Time:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 23:01:15" state="Neutral">
+	<traystate id="tray_state_string" value="Compliance Unknown"/>
+	<label id="simple_status" value="System scan not required on current Wi-Fi." tooltip="System scan not required on current Wi-Fi." color="black" hidden="false" disabled="false"/>
+	<log messagehistory="System scan not required on current Wi-Fi."/>
+	<label id="simple_second_status" value="" tooltip="" color="black" hidden="false" disabled="false"/>
+	<progressmeter id="simple_progress_meter" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="simple_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<button id="detail_tile_label" label="Details" tooltip="Details" hidden="true" disabled="true"/>
+	<progressmeter id="rem_progress_bar" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="rem_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<label id="rem_progress_label" value="System Scan Progress" color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning" value=" " color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning_img" value=" " color="black" hidden="true" disabled="false"/>
+	<button id="rem_cancel_btn" label="Cancel" tooltip="Cancel" hidden="false" disabled="true"/>
+	<button id="rem_skipall_btn" label="Skip All" tooltip="Skip All" hidden="true" disabled="false"/>
+	<button id="nac_try_again_btn" label="Scan Again" tooltip="Scan Again" hidden="true" disabled="false"/>
+	<button id="simple_action_btn" label="Cancel" tooltip="Cancel" hidden="true" disabled="false"/>
+	<button id="rem_done_btn" label="Close" tooltip="Close" hidden="true" disabled="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="apilog" tag="apilog" timestamp="06-04-2025 23:01:21">
+	<statusnotification status="6" compliant="3" remStatus="48" phase="0" step="-1" progress="-1" attention="0" cancelable="0" restartable="0" description1="System scan not required on current Wi-Fi." description2=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="popup">
+	<popup timestamp="06-04-2025 23:01:21" id="nac_remediaton_popup" type="remediation" show="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 23:01:21">
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_compliance_info">
+			<listrowcolumn label="Compliance Information"/>
+			<listrow id="stat_id_current_status">
+				<listrowcolumn label="Current Status:"/>
+				<listrowcolumn label="Compliance Unknown"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_req">
+				<listrowcolumn label="Missing Requirements:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_optionals">
+				<listrowcolumn label="Remaining Optional Updates:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 23:01:21">
+	<outlinelistbox id="overview_stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_nac">
+			<listrowcolumn label="ISE Posture (Compliance Unknown)"/>
+			<listrow id="stat_id_last_check">
+				<listrowcolumn label="Latest Scan Start Time:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 23:01:21" state="Neutral">
+	<traystate id="tray_state_string" value="Compliance Unknown"/>
+	<label id="simple_status" value="System scan not required on current Wi-Fi." tooltip="System scan not required on current Wi-Fi." color="black" hidden="false" disabled="false"/>
+	<log messagehistory="System scan not required on current Wi-Fi."/>
+	<label id="simple_second_status" value="" tooltip="" color="black" hidden="false" disabled="false"/>
+	<progressmeter id="simple_progress_meter" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="simple_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<button id="detail_tile_label" label="Details" tooltip="Details" hidden="true" disabled="true"/>
+	<progressmeter id="rem_progress_bar" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="rem_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<label id="rem_progress_label" value="System Scan Progress" color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning" value=" " color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning_img" value=" " color="black" hidden="true" disabled="false"/>
+	<button id="rem_cancel_btn" label="Cancel" tooltip="Cancel" hidden="false" disabled="true"/>
+	<button id="rem_skipall_btn" label="Skip All" tooltip="Skip All" hidden="true" disabled="false"/>
+	<button id="nac_try_again_btn" label="Scan Again" tooltip="Scan Again" hidden="true" disabled="false"/>
+	<button id="simple_action_btn" label="Cancel" tooltip="Cancel" hidden="true" disabled="false"/>
+	<button id="rem_done_btn" label="Close" tooltip="Close" hidden="true" disabled="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="apilog" tag="apilog" timestamp="06-04-2025 23:01:28">
+	<statusnotification status="6" compliant="3" remStatus="48" phase="0" step="-1" progress="-1" attention="0" cancelable="0" restartable="0" description1="System scan not required on current Wi-Fi." description2=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="popup">
+	<popup timestamp="06-04-2025 23:01:28" id="nac_remediaton_popup" type="remediation" show="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 23:01:28">
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_compliance_info">
+			<listrowcolumn label="Compliance Information"/>
+			<listrow id="stat_id_current_status">
+				<listrowcolumn label="Current Status:"/>
+				<listrowcolumn label="Compliance Unknown"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_req">
+				<listrowcolumn label="Missing Requirements:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_optionals">
+				<listrowcolumn label="Remaining Optional Updates:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 23:01:28">
+	<outlinelistbox id="overview_stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_nac">
+			<listrowcolumn label="ISE Posture (Compliance Unknown)"/>
+			<listrow id="stat_id_last_check">
+				<listrowcolumn label="Latest Scan Start Time:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 23:01:28" state="Neutral">
+	<traystate id="tray_state_string" value="Compliance Unknown"/>
+	<label id="simple_status" value="System scan not required on current Wi-Fi." tooltip="System scan not required on current Wi-Fi." color="black" hidden="false" disabled="false"/>
+	<log messagehistory="System scan not required on current Wi-Fi."/>
+	<label id="simple_second_status" value="" tooltip="" color="black" hidden="false" disabled="false"/>
+	<progressmeter id="simple_progress_meter" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="simple_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<button id="detail_tile_label" label="Details" tooltip="Details" hidden="true" disabled="true"/>
+	<progressmeter id="rem_progress_bar" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="rem_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<label id="rem_progress_label" value="System Scan Progress" color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning" value=" " color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning_img" value=" " color="black" hidden="true" disabled="false"/>
+	<button id="rem_cancel_btn" label="Cancel" tooltip="Cancel" hidden="false" disabled="true"/>
+	<button id="rem_skipall_btn" label="Skip All" tooltip="Skip All" hidden="true" disabled="false"/>
+	<button id="nac_try_again_btn" label="Scan Again" tooltip="Scan Again" hidden="true" disabled="false"/>
+	<button id="simple_action_btn" label="Cancel" tooltip="Cancel" hidden="true" disabled="false"/>
+	<button id="rem_done_btn" label="Close" tooltip="Close" hidden="true" disabled="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="apilog" tag="apilog" timestamp="06-04-2025 23:01:36">
+	<statusnotification status="6" compliant="3" remStatus="48" phase="0" step="-1" progress="-1" attention="0" cancelable="0" restartable="0" description1="System scan not required on current Wi-Fi." description2=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="popup">
+	<popup timestamp="06-04-2025 23:01:36" id="nac_remediaton_popup" type="remediation" show="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 23:01:36">
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_compliance_info">
+			<listrowcolumn label="Compliance Information"/>
+			<listrow id="stat_id_current_status">
+				<listrowcolumn label="Current Status:"/>
+				<listrowcolumn label="Compliance Unknown"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_req">
+				<listrowcolumn label="Missing Requirements:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_optionals">
+				<listrowcolumn label="Remaining Optional Updates:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 23:01:36">
+	<outlinelistbox id="overview_stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_nac">
+			<listrowcolumn label="ISE Posture (Compliance Unknown)"/>
+			<listrow id="stat_id_last_check">
+				<listrowcolumn label="Latest Scan Start Time:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 23:01:36" state="Neutral">
+	<traystate id="tray_state_string" value="Compliance Unknown"/>
+	<label id="simple_status" value="System scan not required on current Wi-Fi." tooltip="System scan not required on current Wi-Fi." color="black" hidden="false" disabled="false"/>
+	<log messagehistory="System scan not required on current Wi-Fi."/>
+	<label id="simple_second_status" value="" tooltip="" color="black" hidden="false" disabled="false"/>
+	<progressmeter id="simple_progress_meter" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="simple_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<button id="detail_tile_label" label="Details" tooltip="Details" hidden="true" disabled="true"/>
+	<progressmeter id="rem_progress_bar" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="rem_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<label id="rem_progress_label" value="System Scan Progress" color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning" value=" " color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning_img" value=" " color="black" hidden="true" disabled="false"/>
+	<button id="rem_cancel_btn" label="Cancel" tooltip="Cancel" hidden="false" disabled="true"/>
+	<button id="rem_skipall_btn" label="Skip All" tooltip="Skip All" hidden="true" disabled="false"/>
+	<button id="nac_try_again_btn" label="Scan Again" tooltip="Scan Again" hidden="true" disabled="false"/>
+	<button id="simple_action_btn" label="Cancel" tooltip="Cancel" hidden="true" disabled="false"/>
+	<button id="rem_done_btn" label="Close" tooltip="Close" hidden="true" disabled="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="apilog" tag="apilog" timestamp="06-04-2025 23:01:45">
+	<statusnotification status="6" compliant="3" remStatus="48" phase="0" step="-1" progress="-1" attention="0" cancelable="0" restartable="0" description1="System scan not required on current Wi-Fi." description2=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="popup">
+	<popup timestamp="06-04-2025 23:01:45" id="nac_remediaton_popup" type="remediation" show="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 23:01:45">
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_compliance_info">
+			<listrowcolumn label="Compliance Information"/>
+			<listrow id="stat_id_current_status">
+				<listrowcolumn label="Current Status:"/>
+				<listrowcolumn label="Compliance Unknown"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_req">
+				<listrowcolumn label="Missing Requirements:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_optionals">
+				<listrowcolumn label="Remaining Optional Updates:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 23:01:45">
+	<outlinelistbox id="overview_stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_nac">
+			<listrowcolumn label="ISE Posture (Compliance Unknown)"/>
+			<listrow id="stat_id_last_check">
+				<listrowcolumn label="Latest Scan Start Time:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 23:01:45" state="Neutral">
+	<traystate id="tray_state_string" value="Compliance Unknown"/>
+	<label id="simple_status" value="System scan not required on current Wi-Fi." tooltip="System scan not required on current Wi-Fi." color="black" hidden="false" disabled="false"/>
+	<log messagehistory="System scan not required on current Wi-Fi."/>
+	<label id="simple_second_status" value="" tooltip="" color="black" hidden="false" disabled="false"/>
+	<progressmeter id="simple_progress_meter" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="simple_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<button id="detail_tile_label" label="Details" tooltip="Details" hidden="true" disabled="true"/>
+	<progressmeter id="rem_progress_bar" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="rem_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<label id="rem_progress_label" value="System Scan Progress" color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning" value=" " color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning_img" value=" " color="black" hidden="true" disabled="false"/>
+	<button id="rem_cancel_btn" label="Cancel" tooltip="Cancel" hidden="false" disabled="true"/>
+	<button id="rem_skipall_btn" label="Skip All" tooltip="Skip All" hidden="true" disabled="false"/>
+	<button id="nac_try_again_btn" label="Scan Again" tooltip="Scan Again" hidden="true" disabled="false"/>
+	<button id="simple_action_btn" label="Cancel" tooltip="Cancel" hidden="true" disabled="false"/>
+	<button id="rem_done_btn" label="Close" tooltip="Close" hidden="true" disabled="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="apilog" tag="apilog" timestamp="06-04-2025 23:01:59">
+	<statusnotification status="6" compliant="3" remStatus="48" phase="0" step="-1" progress="-1" attention="0" cancelable="0" restartable="0" description1="System scan not required on current Wi-Fi." description2=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="popup">
+	<popup timestamp="06-04-2025 23:01:59" id="nac_remediaton_popup" type="remediation" show="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 23:01:59">
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_compliance_info">
+			<listrowcolumn label="Compliance Information"/>
+			<listrow id="stat_id_current_status">
+				<listrowcolumn label="Current Status:"/>
+				<listrowcolumn label="Compliance Unknown"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_req">
+				<listrowcolumn label="Missing Requirements:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_optionals">
+				<listrowcolumn label="Remaining Optional Updates:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 23:01:59">
+	<outlinelistbox id="overview_stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_nac">
+			<listrowcolumn label="ISE Posture (Compliance Unknown)"/>
+			<listrow id="stat_id_last_check">
+				<listrowcolumn label="Latest Scan Start Time:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 23:01:59" state="Neutral">
+	<traystate id="tray_state_string" value="Compliance Unknown"/>
+	<label id="simple_status" value="System scan not required on current Wi-Fi." tooltip="System scan not required on current Wi-Fi." color="black" hidden="false" disabled="false"/>
+	<log messagehistory="System scan not required on current Wi-Fi."/>
+	<label id="simple_second_status" value="" tooltip="" color="black" hidden="false" disabled="false"/>
+	<progressmeter id="simple_progress_meter" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="simple_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<button id="detail_tile_label" label="Details" tooltip="Details" hidden="true" disabled="true"/>
+	<progressmeter id="rem_progress_bar" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="rem_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<label id="rem_progress_label" value="System Scan Progress" color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning" value=" " color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning_img" value=" " color="black" hidden="true" disabled="false"/>
+	<button id="rem_cancel_btn" label="Cancel" tooltip="Cancel" hidden="false" disabled="true"/>
+	<button id="rem_skipall_btn" label="Skip All" tooltip="Skip All" hidden="true" disabled="false"/>
+	<button id="nac_try_again_btn" label="Scan Again" tooltip="Scan Again" hidden="true" disabled="false"/>
+	<button id="simple_action_btn" label="Cancel" tooltip="Cancel" hidden="true" disabled="false"/>
+	<button id="rem_done_btn" label="Close" tooltip="Close" hidden="true" disabled="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="apilog" tag="apilog" timestamp="06-04-2025 23:02:19">
+	<statusnotification status="6" compliant="3" remStatus="48" phase="0" step="-1" progress="-1" attention="0" cancelable="0" restartable="0" description1="System scan not required on current Wi-Fi." description2=""/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="popup">
+	<popup timestamp="06-04-2025 23:02:19" id="nac_remediaton_popup" type="remediation" show="false"/>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 23:02:19">
+	<outlinelistbox id="stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_compliance_info">
+			<listrowcolumn label="Compliance Information"/>
+			<listrow id="stat_id_current_status">
+				<listrowcolumn label="Current Status:"/>
+				<listrowcolumn label="Compliance Unknown"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_req">
+				<listrowcolumn label="Missing Requirements:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+			<listrow id="stat_id_outstanding_optionals">
+				<listrowcolumn label="Remaining Optional Updates:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 23:02:19">
+	<outlinelistbox id="overview_stat_outlinelistbox" updaterows="true" num_columns="2">
+		<listgroup id="stat_group_nac">
+			<listrowcolumn label="ISE Posture (Compliance Unknown)"/>
+			<listrow id="stat_id_last_check">
+				<listrowcolumn label="Latest Scan Start Time:"/>
+				<listrowcolumn label="Not Available"/>
+			</listrow>
+		</listgroup>
+	</outlinelistbox>
+</acguiNotice>
+
+<acguiNotice module="com.cisco.anyconnect.presentation.nac" type="update" timestamp="06-04-2025 23:02:19" state="Neutral">
+	<traystate id="tray_state_string" value="Compliance Unknown"/>
+	<label id="simple_status" value="System scan not required on current Wi-Fi." tooltip="System scan not required on current Wi-Fi." color="black" hidden="false" disabled="false"/>
+	<log messagehistory="System scan not required on current Wi-Fi."/>
+	<label id="simple_second_status" value="" tooltip="" color="black" hidden="false" disabled="false"/>
+	<progressmeter id="simple_progress_meter" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="simple_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<button id="detail_tile_label" label="Details" tooltip="Details" hidden="true" disabled="true"/>
+	<progressmeter id="rem_progress_bar" progressvalue="-1" progressupper="100" hidden="true"/>
+	<label id="rem_progress_percent" value="-1%" color="black" hidden="true" disabled="false"/>
+	<label id="rem_progress_label" value="System Scan Progress" color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning" value=" " color="black" hidden="true" disabled="false"/>
+	<label id="rem_time_remaining_warning_img" value=" " color="black" hidden="true" disabled="false"/>
+	<button id="rem_cancel_btn" label="Cancel" tooltip="Cancel" hidden="false" disabled="true"/>
+	<button id="rem_skipall_btn" label="Skip All" tooltip="Skip All" hidden="true" disabled="false"/>
+	<button id="nac_try_again_btn" label="Scan Again" tooltip="Scan Again" hidden="true" disabled="false"/>
+	<button id="simple_action_btn" label="Cancel" tooltip="Cancel" hidden="true" disabled="false"/>
+	<button id="rem_done_btn" label="Close" tooltip="Close" hidden="true" disabled="false"/>
+</acguiNotice>
+
